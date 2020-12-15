@@ -3,9 +3,14 @@ h3 {
 }
 
 img {
-
+   width: 100px;
+   height: auto;
 }
 
 .photos {
    text-align: center;
+}
+div {
+   border-left: 3px dotted rgb(236, 4, 178);
+   border-right: 3px dotted rgb(236, 4, 178);
 }
